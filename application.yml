@@ -1,0 +1,7 @@
+my:
+  greeting: Hello from Ivan config server v2
+  list:
+    values: Pero, Marko
+        
+eureka:
+  serviceUrl: http://localhost:8900
